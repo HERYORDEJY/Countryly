@@ -1,0 +1,10 @@
+{
+  "name": "CountryApp",
+  "displayName": "CountryApp",
+  "expo": {
+    "name": "CountryApp",
+    "slug": "CountryApp",
+    "version": "1.2.0",
+    "assetBundlePatterns": ["**/*"]
+  }
+}

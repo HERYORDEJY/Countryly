@@ -1,0 +1,2 @@
+export const SAVE_ARTICLE = 'SAVE_ARTICLE';
+export const REMOVE_ARTICLE = 'REMOVE_ARTICLE';
